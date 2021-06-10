@@ -1,5 +1,5 @@
 ### 📡 Interests
-**NLP**, **Recommender System**, **IR**, **Knowledge Graph**
+**NLP**, **Recommender System**, IR, Knowledge Graph
 
 
 ### 🎓 Education
