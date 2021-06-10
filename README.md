@@ -1,16 +1,20 @@
-### Hi there 👋
+### 📡 Interests
+**NLP**, **Recommender System**, **IR**, **Knowledge Graph**
 
-<!--
-**cheonsol-lee/cheonsol-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🎓 Education
+  - 🇰🇷 03.2020 ~ Korea Advanced Institute of Science and Technology, [Knowledge Innovation Research Center(KIRC)](https://kirc.kaist.ac.kr/)(Department of Knowledge Service Engineering)
+    - M.S. Student
+  - 🇰🇷 03.2013 ~ 12. 2019 Chungbuk National University
+    - B.S. in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Work Experience
+  - 12.2020 ~ 08.2021 : Project Manager in the Hana Financial Project
+    -  Recommender System Design based on Customer Information & Financial Products
+  - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), CHUNGBUK NATIONAL UNIVERSITY
+    -  C/C++ Programming teaching (Sophomore Class)
+    -  Application Computer Programming teaching (Freshmen Class)
+    -  Software Engineering teaching (Junior Class) 
+  - 09.2017 ~ 12.2017 : RA at NLP LAB, CHUNGBUK NATIONAL UNIVERSITY
+    - Preprocessing of Korean Legal Dictionary Processing System with ETRI
