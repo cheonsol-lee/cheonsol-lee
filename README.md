@@ -11,7 +11,7 @@
 
 ### 💻 Work Experience
   - 12.2020 ~ 08.2021 : Project Manager in the Hana Financial Project
-    -  Recommender System Design based on Customer Information & Financial Products
+    -  **Recommender System Design** based on Customer Information & Financial Products
   - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), Chungbuk National University
     -  C/C++ Programming teaching (Sophomore Class)
     -  Application Computer Programming teaching (Freshmen Class)
