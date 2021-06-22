@@ -18,3 +18,7 @@
     -  Software Engineering
   - 09.2017 ~ 12.2017 : RA at Natural Language Processing LAB(NLP-LAB), Chungbuk National University
     - Preprocessing of Korean Legal Dictionary Processing System with ETRI
+
+### :school: Personal Study
+  - 05.2021 ~ 06.2021 : taking a course about **Recommender System Lecture**  in Fastcampus
+    - https://fastcampus.co.kr/data_online_rs
