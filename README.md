@@ -3,9 +3,9 @@
 
 
 ### 🎓 Education
-  - 🇰🇷 03.2020 ~ Korea Advanced Institute of Science and Technology, [Knowledge Innovation Research Center(KIRC)](https://kirc.kaist.ac.kr/)(Department of Knowledge Service Engineering)
+  - 🇰🇷 03.2020 ~ : Korea Advanced Institute of Science and Technology, [Knowledge Innovation Research Center(KIRC)](https://kirc.kaist.ac.kr/)(Department of Knowledge Service Engineering)
     - M.S. Student
-  - 🇰🇷 03.2013 ~ 12. 2019 Chungbuk National University
+  - 🇰🇷 03.2013 ~ 12. 2019 : Chungbuk National University
     - B.S. in Computer Science
 
 
