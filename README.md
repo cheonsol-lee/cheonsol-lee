@@ -12,6 +12,8 @@
 ### 💻 Work Experience
   - 12.2020 ~ 08.2021 : **Project Manager** in the Hana Financial Project
     -  **Recommender System Design** based on Customer Information & Financial Products
+  - 09.2020 ~ 07.2021 : **President** in 15th Kwanjeong Education Foundation
+    -  [**Kwanjeong Community Manager** ](https://www.facebook.com/groups/mensches/?multi_permalinks=4245840055438790&notif_id=1624750982923666&notif_t=feedback_reaction_generic&ref=notif)
   - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), Chungbuk National University
     -  C/C++ Programming
     -  Application Computer Programming
