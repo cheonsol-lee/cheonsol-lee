@@ -22,5 +22,5 @@
     - Preprocessing of Korean Legal Dictionary Processing System with ETRI
 
 ### :school: Personal Study
-  - 05.2021 ~ 06.2021 : taking a course about **Recommender System Lecture**  in Fastcampus
+  - 05.2021 ~ 07.2021 : Completion of the course about **Recommender System Lecture**  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
