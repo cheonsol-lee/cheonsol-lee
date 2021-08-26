@@ -22,5 +22,7 @@
     - Preprocessing of Korean Legal Dictionary Processing System with ETRI
 
 ### :school: Personal Study
+  - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
+    - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/) [Lecture](https://youtu.be/JAB_plj2rbA)
   - 05.2021 ~ 07.2021 : Completion of the course about **Recommender System Lecture**  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
