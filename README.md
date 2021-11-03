@@ -26,3 +26,6 @@
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
   - 05.2021 ~ 07.2021 : Completion of the course about **Recommender System Lecture**  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheonsol-lee)](https://github.com/anuraghazra/github-readme-stats)
