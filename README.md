@@ -1,5 +1,5 @@
 ### 📡 Interests
-**Recommender System**, **NLP**, IR, Knowledge Graph
+**Recommender System**, **NLP**, **GNN**
 
 
 ### 🎓 Education
@@ -10,7 +10,8 @@
 
 
 ### 💻 Work Experience
-  - 02.2022 ~ 06.2022 : **AI Researcher** in KAIST
+  - 03.2022 ~ 06.2022 : **AI Researcher** in KAIST
+    - AI-based System Development of Real Estate Property
   - 12.2020 ~ 08.2021 : **Project Manager** in the Hana Financial Project
     -  **Recommender System Design** based on Customer Information & Financial Products
   - 09.2020 ~ 07.2021 : **President** in 15th Kwanjeong Education Foundation
