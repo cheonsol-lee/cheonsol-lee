@@ -9,19 +9,12 @@
     - B.S. in Computer Science
 
 
-### 💻 Work Experience
+### 💻 Project Experience
   - 03.2022 ~ 06.2022 : **AI Researcher** in KAIST
     - AI-based System Development of Real Estate Property
   - 12.2020 ~ 08.2021 : **Project Manager** in the Hana Financial Project
     -  **Recommender System Design** based on Customer Information & Financial Products
-  - 09.2020 ~ 07.2021 : **President** in 15th Kwanjeong Education Foundation
-    -  [**Kwanjeong Community Manager** ](http://www.ikef.or.kr/)
-  - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), Chungbuk National University
-    -  C/C++ Programming
-    -  Application Computer Programming
-    -  Software Engineering
-  - 09.2017 ~ 12.2017 : RA at Natural Language Processing LAB(NLP-LAB), Chungbuk National University
-    - Preprocessing of Korean Legal Dictionary Processing System with ETRI
+
 
 ### :school: Personal Study
   - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
