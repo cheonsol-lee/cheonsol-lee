@@ -4,7 +4,7 @@
 
 ### 💻 Work
   - 07.2022 ~ : **ML Engineer** at KT
-    - AI Curation Recommender System for Olleh-IPTV
+    - AI Curation Recommender System for Genie-IPTV
 
 ### 🎓 Education
   - 🇰🇷 03.2020 ~ 02.2022 : Korea Advanced Institute of Science and Technology, [Knowledge Innovation Research Center(KIRC)](https://kirc.kaist.ac.kr/)
