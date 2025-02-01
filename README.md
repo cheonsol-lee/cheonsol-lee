@@ -3,6 +3,8 @@
 
 
 ### 💻 Work
+  - 01.2025 ~ : **AI Research Engineer** at Hana Insititute of Technology
+    - Development of Hi-ChatBot for Hana Bank App
   - 07.2022 ~ : **ML Engineer** at KT
     - LLM Model Development for Home-shopping Domain
     - AI Curation Recommender System Development for Genie-IPTV
