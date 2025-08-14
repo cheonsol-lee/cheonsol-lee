@@ -25,10 +25,10 @@
 
 ### :school: Personal Study
   - 2024.09 ~ 2025.08 : [Stockelper](https://github.com/Stockelper-Lab) in PseudoLab
-  - 03.2022 ~ 07.2022 : [All about Graph with NLP/RecommenderSystem LAB](https://modulabs.notion.site/All-about-Graph-with-NLP-RecommenderSystem-LAB-d6231c4250e34c23a74af25b99e2d987) in ModuLab
-  - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
+  - 2022.03 ~ 2022.07 : [All about Graph with NLP/RecommenderSystem LAB](https://modulabs.notion.site/All-about-Graph-with-NLP-RecommenderSystem-LAB-d6231c4250e34c23a74af25b99e2d987) in ModuLab
+  - 2021.08 ~ 2021.09 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
-  - 05.2021 ~ 07.2021 : Completion of the course about **Recommender System Lecture**  in Fastcampus
+  - 2021.05 ~ 2021.07 : Completion of the course about **Recommender System Lecture**  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
 
 
